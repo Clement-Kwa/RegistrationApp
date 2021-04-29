@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Demo My Sceond App</string>
+    <string name="textview1">Name:</string>
+    <string name="textview2">Password:</string>
+    <string name="buttontext">Login</string>
+    <string name="buttontext2">Cancel</string>
+
+
+    <string name="app_name2">Registration Form</string>
+    <string name="textview3">Welcome to Adventure Learning Club!</string>
+    <string name="textview4">Full Name:</string>
+    <string name="textview5">Gender:</string>
+    <string name="textview6">Student ID:</string>
+    <string name="textview7">School:</string>
+    <string name="textview8">Email:</string>
+    <string name="textview9">Phone:</string>
+    <string name="buttontext3">Male</string>
+    <string name="buttontext4">Female</string>
+    <string name="buttontext5">Register</string>
+    <string name="textview10">First Name</string>
+    <string name="textview11">Last Name</string>
+</resources>
